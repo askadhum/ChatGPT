@@ -1,9 +1,0 @@
-name: test
-
-on: push
-
-jobs:
-  init:
-    runs-on: self-hosted
-    steps:
-      - run: 'hello Ali, good work dude'
